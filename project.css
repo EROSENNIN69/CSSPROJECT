@@ -1,6 +1,6 @@
 
 body{
-	background-image: url(d.jpg); 
+	background-image: url(https://drive.google.com/uc?id=1Mv0sCxcoxYfUMkYqS1FSLT66N8dbAywP); 
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -40,7 +40,7 @@ h6{
 }
 
 .message>p{
-	background: url(g.jpg) no-repeat;
+	background: url(https://drive.google.com/uc?id=1pjHnFMESyM-2-riLQydr75qnbDPZ8ggJ) no-repeat;
 	max-width: 200%;
 	height: auto;
 	font-size: 20px;
@@ -73,7 +73,7 @@ h6{
 }
 
 .image>p{
-	background: url(sleep.jpg) no-repeat;
+	background: url(https://drive.google.com/uc?id=12FG4T7psVTPzcNXlljvokGAEW_K06pzL) no-repeat;
 	background-position: center;
 	max-width: 200%;
 	height: auto;
@@ -119,12 +119,13 @@ h6{
 }
 
 .chapter>p{
-	background-image: url(spook.jpg) no-repeat;
-	max-width: 100%;
-
+	background: url(https://drive.google.com/uc?id=1pjHnFMESyM-2-riLQydr75qnbDPZ8ggJ) no-repeat;
+	max-width: 200%;
 	height: auto;
 	font-size:25px;
-	font-family: Moon ;
-	color: black;
-	text-shadow: 2px 2px white;
+	font-family: sans-serif;
+	color: white;
+	text-shadow: 1px 1px black;
+	padding: 10px 20px 10px 20px;
+
 }
